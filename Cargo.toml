@@ -1,0 +1,9 @@
+[package]
+name = "is_meme"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Is this a funny number???"
+repository = "https://github.com/Bekfastbek/is_meme"
+
+[dependencies]
